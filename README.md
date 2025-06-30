@@ -1,1 +1,1 @@
-# stockprice_ml
+# 3stock_portfolio_stockpriceanalysis_ml
